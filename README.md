@@ -11,7 +11,7 @@ Emboli Detection System project is developed using Matlab to segment vessels and
   
 All of the documents about this project are available at:  
 * https://github.com/CankayaUniversity/ceng-407-408-project-blood-vessel-segmentation/wiki
-* https://aykut-er.github.io/
+* [Project Website](https://aykut-er.github.io/)
   
   
 # **1. Compilation / Installation Guide**  
