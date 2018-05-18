@@ -35,11 +35,7 @@ All of the documents about this project are available at:
   
 ## **1.3. Installation**  
   
-* From the guide above, after the program is started, the GUI of the project can be used. 
-* Another option to run the program, the project .zip folder is downloaded, then clicking the ProjectGUI.exe, as seen in Figure 2, in the folder and run the program.
-  
-![](https://drive.google.com/uc?id=1iCZHC4IaJzXoLKqwkUe6I7vNdGwNurMl)  
-**Figure 2 .exe file to run the GUI**  
+* From the guide above, after the program is started, the GUI of the project can be used.  
   
 # **2. User Manual**  
   
